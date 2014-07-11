@@ -12,12 +12,7 @@
    module3
    module4
    module5
+   module6
 
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
